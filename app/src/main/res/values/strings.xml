@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo RIddle</string>
+    <string name="riddle1">Question 1\nThis word has the\nsame pronunciation\neven after removing\n4 letters from it?</string>
+    <string name="riddle2">Question 2\nHow do you make\n1 disappear?
+    </string>
+    <string name="reveal">Reveal</string>
+</resources>
